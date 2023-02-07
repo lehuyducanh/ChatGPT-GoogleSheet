@@ -1,4 +1,4 @@
-function myFunction() {
+
   /**
  * Generates text using OpenAI's GPT-3 model
  * @param {string} prompt The prompt to feed to the GPT-3 model
